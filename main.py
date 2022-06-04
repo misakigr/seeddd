@@ -1,6 +1,6 @@
-import BalanceRequests
-import Bipwallet
 import SeedSlova
+import Bipwallet
+import BalanceRequests
 
 seed = SeedSlova.seed()
 #print(seed)
